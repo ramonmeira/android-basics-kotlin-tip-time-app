@@ -6,5 +6,5 @@ It is a simple demo using ConstraintLayout, TextView, Switch, Button, RadioGroup
 
 <center>
     <img src="screenshot.png" height=512 width=288 />
-    <img src="screenshot_dark.png" height=512 width=288 />
+    <img src="Screenshot_dark.png" height=512 width=288 />
 </center>
